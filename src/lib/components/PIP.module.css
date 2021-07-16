@@ -1,4 +1,4 @@
-.pip-window {
+.pipWindow {
   background-color: #242d36;
   z-index: 100;
   position: fixed;
@@ -11,20 +11,14 @@
   border-radius: 0.28571429rem;
 }
 
-.pip-window:hover {
+.pipWindow:hover {
   cursor: grab;
 }
 
-.pip-window:active {
+.pipWindow:active {
   cursor: grabbing;
   outline: -webkit-focus-ring-color auto 1px;
   outline-color: -webkit-focus-ring-color;
   outline-style: auto;
   outline-width: 1px;
-}
-
-.pip-resizable-content {
-  background: #202429;
-  margin: 20px;
-  border-radius: 0.28571429rem;
 }
