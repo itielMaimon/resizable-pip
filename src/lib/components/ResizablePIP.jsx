@@ -1,3 +1,4 @@
+import React from "react";
 import PIP from "./PIP";
 import { ResizableBox } from "react-resizable";
 import "react-resizable/css/styles.css";
