@@ -18,8 +18,8 @@ $ npm install resizable-pip
 
 This package has two major exports:
 
-- [`<ResizablePIP>`](/lib/ResizablePIP.js): A simple PIP component that can be resized and moved around.
-- [`<PIP>`](/lib/PIP.js): A simple PIP component that does not receive props and cannot be resized. Used as a base for the ResizablePIP component.
+- [`<ResizablePIP>`](/src/lib/components/ResizablePIP.jsx): A simple PIP component that can be resized and moved around.
+- [`<PIP>`](/src/lib/components/PIP.jsx): A simple PIP component that does not receive props and cannot be resized. Used as a base for the ResizablePIP component.
 
 ## `<ResizablePIP>`
 
@@ -27,7 +27,7 @@ A `<ResizablePIP>` element wraps an existing element and extends it with the abi
 
 ### ResizablePIP Usage
 
-View the [source](/lib/ResizablePIP.js) for more.
+View the [source](/src/lib/components/ResizablePIP.jsx) for more.
 
 ```js
 import { ResizablePIP } from "resizable-pip";
