@@ -8,6 +8,8 @@ A resizable picture-in-picture component for React.
 </ResizablePIP>
 ```
 
+![](ResizablePIP.png)
+
 ### Installing
 
 ```bash
