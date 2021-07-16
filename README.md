@@ -8,7 +8,7 @@ A resizable picture-in-picture component for React.
 </ResizablePIP>
 ```
 
-![](ResizablePIP.png)
+![](ResizablePIP.gif)
 
 ### Installing
 
